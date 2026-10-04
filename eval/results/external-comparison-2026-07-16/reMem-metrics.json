@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "benchmark": "locomo",
+    "project_name": "reMem_pilot",
+    "run_id": "3b38354d",
+    "timestamp": "20260716_193708",
+    "answerer_model": "openai/gpt-4o-mini",
+    "judge_model": "openai/gpt-4o-mini",
+    "provider": "openai",
+    "top_k": 50,
+    "top_k_cutoffs": [
+      "top_10",
+      "top_20",
+      "top_50"
+    ],
+    "total_questions": 385,
+    "categories": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "metrics_by_cutoff": {
+    "top_10": {
+      "overall": {
+        "total": 385,
+        "correct": 255,
+        "accuracy": 66.23376623376623,
+        "avg_score": 66.23376623376623
+      },
+      "by_category": {
+        "multi-hop": {
+          "total": 74,
+          "correct": 46,
+          "accuracy": 62.16216216216216,
+          "avg_score": 62.16216216216216
+        },
+        "open-domain": {
+          "total": 21,
+          "correct": 17,
+          "accuracy": 80.95238095238095,
+          "avg_score": 80.95238095238095
+        },
+        "single-hop": {
+          "total": 200,
+          "correct": 166,
+          "accuracy": 83.0,
+          "avg_score": 83.0
+        },
+        "temporal": {
+          "total": 90,
+          "correct": 26,
+          "accuracy": 28.888888888888886,
+          "avg_score": 28.888888888888886
+        }
+      }
+    },
+    "top_20": {
+      "overall": {
+        "total": 385,
+        "correct": 286,
+        "accuracy": 74.28571428571429,
+        "avg_score": 74.28571428571429
+      },
+      "by_category": {
+        "multi-hop": {
+          "total": 74,
+          "correct": 57,
+          "accuracy": 77.02702702702703,
+          "avg_score": 77.02702702702703
+        },
+        "open-domain": {
+          "total": 21,
+          "correct": 16,
+          "accuracy": 76.19047619047619,
+          "avg_score": 76.19047619047619
+        },
+        "single-hop": {
+          "total": 200,
+          "correct": 180,
+          "accuracy": 90.0,
+          "avg_score": 90.0
+        },
+        "temporal": {
+          "total": 90,
+          "correct": 33,
+          "accuracy": 36.666666666666664,
+          "avg_score": 36.666666666666664
+        }
+      }
+    },
+    "top_50": {
+      "overall": {
+        "total": 385,
+        "correct": 297,
+        "accuracy": 77.14285714285715,
+        "avg_score": 77.14285714285715
+      },
+      "by_category": {
+        "multi-hop": {
+          "total": 74,
+          "correct": 62,
+          "accuracy": 83.78378378378379,
+          "avg_score": 83.78378378378379
+        },
+        "open-domain": {
+          "total": 21,
+          "correct": 17,
+          "accuracy": 80.95238095238095,
+          "avg_score": 80.95238095238095
+        },
+        "single-hop": {
+          "total": 200,
+          "correct": 182,
+          "accuracy": 91.0,
+          "avg_score": 91.0
+        },
+        "temporal": {
+          "total": 90,
+          "correct": 36,
+          "accuracy": 40.0,
+          "avg_score": 40.0
+        }
+      }
+    }
+  }
+}

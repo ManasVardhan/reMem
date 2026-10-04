@@ -1,0 +1,29 @@
+--- /dev/fd/12	2026-08-08 14:58:46
++++ memorybench/src/utils/config.ts	2026-08-08 14:55:27
+@@ -3,6 +3,7 @@
+   supermemoryBaseUrl: string
+   mem0ApiKey: string
+   zepApiKey: string
++  rememBaseUrl: string
+   openaiApiKey: string
+   anthropicApiKey: string
+   googleApiKey: string
+@@ -13,6 +14,9 @@
+   supermemoryBaseUrl: process.env.SUPERMEMORY_BASE_URL || "https://api.supermemory.ai",
+   mem0ApiKey: process.env.MEM0_API_KEY || "",
+   zepApiKey: process.env.ZEP_API_KEY || "",
++  // Local server started with `pnpm serve:mem0-adapter` from the reMem repo
++  // root; no API key needed since it only runs on localhost.
++  rememBaseUrl: process.env.REMEM_BASE_URL || "http://localhost:8888",
+   openaiApiKey: process.env.OPENAI_API_KEY || "",
+   anthropicApiKey: process.env.ANTHROPIC_API_KEY || "",
+   googleApiKey: process.env.GOOGLE_API_KEY || "",
+@@ -30,6 +34,8 @@
+       return { apiKey: config.openaiApiKey } // Filesystem uses OpenAI for memory extraction
+     case "rag":
+       return { apiKey: config.openaiApiKey } // RAG provider uses OpenAI for embeddings
++    case "remem":
++      return { apiKey: "", baseUrl: config.rememBaseUrl } // Local server, no API key needed
+     default:
+       throw new Error(`Unknown provider: ${provider}`)
+   }

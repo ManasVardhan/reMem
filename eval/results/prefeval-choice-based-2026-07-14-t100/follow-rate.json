@@ -1,0 +1,20 @@
+[
+  {
+    "system": "naive-vector",
+    "cases": 150,
+    "follows": 69,
+    "violates": 74,
+    "unaware": 7,
+    "hallucinate": 0,
+    "followRate": 0.46
+  },
+  {
+    "system": "reMem",
+    "cases": 150,
+    "follows": 99,
+    "violates": 46,
+    "unaware": 4,
+    "hallucinate": 1,
+    "followRate": 0.66
+  }
+]

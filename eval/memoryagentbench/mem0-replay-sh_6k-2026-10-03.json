@@ -1,0 +1,11 @@
+{
+ "events": {},
+ "log": [],
+ "final_memories": [],
+ "llm_responses": [
+  "{\"facts\" : []}",
+  "{\n    \"memory\": []\n}",
+  "{\"facts\" : []}",
+  "{\n    \"memory\": []\n}"
+ ]
+}

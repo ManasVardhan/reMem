@@ -1,0 +1,30 @@
+{
+  "primaryModel": "openai/gpt-4o-mini",
+  "judgeModel": "google/gemini-2.5-flash",
+  "gapA": 0.20000000000000007,
+  "gapB": 0.25,
+  "rows": [
+    {
+      "system": "naive-vector",
+      "cases": 40,
+      "followA": 14,
+      "followB": 14,
+      "followRateA": 0.35,
+      "followRateB": 0.35,
+      "labelAgreement": 0.775,
+      "followAgreement": 0.9,
+      "kappa": 0.7802197802197802
+    },
+    {
+      "system": "reMem",
+      "cases": 40,
+      "followA": 22,
+      "followB": 24,
+      "followRateA": 0.55,
+      "followRateB": 0.6,
+      "labelAgreement": 0.85,
+      "followAgreement": 0.95,
+      "kappa": 0.8979591836734693
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "remem-kernel",
+  "version": "0.3.0",
+  "mcpName": "io.github.manasvardhan/remem",
+  "description": "Memory kernel for a JARVIS-class personal AI assistant: immutable ledger + confidence-scored, context-scoped, decaying belief layer with provenance.",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "packageManager": "pnpm@11.11.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "main": "dist/index.js",
+  "homepage": "https://re-mem.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManasVardhan/reMem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ManasVardhan/reMem/issues"
+  },
+  "author": "Manas Vardhan",
+  "keywords": [
+    "memory",
+    "agent-memory",
+    "beliefs",
+    "provenance",
+    "mcp",
+    "claude-code",
+    "local-first",
+    "sqlite"
+  ],
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./dist/*": "./dist/*",
+    "./plugin/*": "./plugin/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "plugin",
+    ".claude-plugin"
+  ],
+  "scripts": {
+    "build": "node scripts/build-viewer-page.mjs && tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "eval": "tsx src/eval/cli.ts",
+    "eval:locomo": "tsx src/eval/cli-locomo.ts",
+    "eval:density": "tsx src/eval/cli-density.ts",
+    "serve:mem0-adapter": "tsx src/eval/mem0-adapter-server.ts",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "mcp": "tsx src/mcp/server.ts",
+    "viewer": "tsx src/viewer/server.ts",
+    "import": "tsx src/import/cli.ts",
+    "consolidate": "tsx src/consolidate/cli.ts",
+    "viewer:page": "node scripts/build-viewer-page.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "smoke:setup": "node scripts/smoke-setup.mjs",
+    "prepublishOnly": "pnpm build && pnpm test",
+    "reembed": "tsx src/embed/cli.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "better-sqlite3": "12.9.0",
+    "zod": "3.25.76"
+  },
+  "optionalDependencies": {
+    "@huggingface/transformers": "^4.2.0"
+  },
+  "devDependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.258",
+    "@eslint/js": "9.18.0",
+    "@types/better-sqlite3": "7.6.12",
+    "@types/node": "22.10.5",
+    "@typescript-eslint/eslint-plugin": "8.20.0",
+    "@typescript-eslint/parser": "8.20.0",
+    "eslint": "9.18.0",
+    "prettier": "3.4.2",
+    "tsx": "4.19.2",
+    "typescript": "5.7.3",
+    "vitest": "2.1.8"
+  },
+  "bin": {
+    "remem-mcp": "dist/mcp/server.js",
+    "remem-viewer": "dist/viewer/server.js",
+    "remem-import": "dist/import/cli.js",
+    "remem-consolidate": "dist/consolidate/cli.js",
+    "remem-reembed": "dist/embed/cli.js",
+    "remem-doctor": "dist/doctor/cli.js",
+    "remem-kernel": "dist/cli/main.js"
+  },
+  "peerDependenciesMeta": {
+    "@anthropic-ai/claude-agent-sdk": {
+      "optional": true
+    }
+  }
+}

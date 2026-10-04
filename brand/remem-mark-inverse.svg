@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="reMem">
+  <title>reMem</title>
+  <!-- Two equal squares, side 48, offset by exactly half. The intersection is
+       knocked out with evenodd: where two claims meet, the mark opens. -->
+  <path fill="#FBFBF9" fill-rule="evenodd"
+        d="M12 12H60V60H12Z M36 36H84V84H36Z"/>
+</svg>

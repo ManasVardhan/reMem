@@ -1,0 +1,35 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+*.log
+*.tgz
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Benchmark data: downloaded on demand, never committed (see docs/DATA.md)
+data/raw/
+data/processed/
+eval/cache/
+
+# Third-party benchmark context, regenerated locally from MemoryAgentBench
+eval/density/factconsolidation-sh-6k-context.txt
+
+# A third-party benchmark harness cloned into the repo root. Anchored: an
+# unanchored "memorybench/" would also match eval/memorybench/, which is ours.
+/memorybench/
+
+# Environment and secrets
+.env
+.env.*
+
+# Generated from banner.html by the render step in brand/README.md
+brand/banner-wide.html
+
+# Editor and OS cruft, scratch work
+.DS_Store
+scratch/

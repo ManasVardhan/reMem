@@ -1,0 +1,14 @@
+[
+  {
+    "system": "naive-vector",
+    "cases": 1531,
+    "correct": 178,
+    "accuracy": 0.116263879817113
+  },
+  {
+    "system": "reMem-obs",
+    "cases": 1531,
+    "correct": 372,
+    "accuracy": 0.24297844546048333
+  }
+]

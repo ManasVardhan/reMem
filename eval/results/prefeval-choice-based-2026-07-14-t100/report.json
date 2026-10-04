@@ -1,0 +1,97 @@
+{
+  "dataset": "prefeval-choice-based",
+  "k": 5,
+  "generatedTs": 1784012848924,
+  "systems": [
+    {
+      "system": "no-memory",
+      "cases": 150,
+      "recallAtK": 0,
+      "mrr": 0,
+      "groundedAccuracy": 0,
+      "abstentionPrecision": 0,
+      "abstentionRecall": 1,
+      "avgContextTokens": 0,
+      "avgLatencyMs": 0.0005963934709628423,
+      "byAbility": [
+        {
+          "ability": "preference",
+          "cases": 150,
+          "groundedAccuracy": 0
+        }
+      ]
+    },
+    {
+      "system": "naive-vector",
+      "cases": 150,
+      "recallAtK": 0.6133333333333333,
+      "mrr": 0.3388888888888894,
+      "groundedAccuracy": 0.18,
+      "abstentionPrecision": 1,
+      "abstentionRecall": 1,
+      "avgContextTokens": 231.74,
+      "avgLatencyMs": 0.12526584655046463,
+      "byAbility": [
+        {
+          "ability": "preference",
+          "cases": 150,
+          "groundedAccuracy": 0.18
+        }
+      ]
+    },
+    {
+      "system": "reMem",
+      "cases": 150,
+      "recallAtK": 0.8466666666666667,
+      "mrr": 0.5432222222222223,
+      "groundedAccuracy": 0.30666666666666664,
+      "abstentionPrecision": 1,
+      "abstentionRecall": 1,
+      "avgContextTokens": 231.90666666666667,
+      "avgLatencyMs": 0.0006697202473878861,
+      "byAbility": [
+        {
+          "ability": "preference",
+          "cases": 150,
+          "groundedAccuracy": 0.30666666666666664
+        }
+      ]
+    },
+    {
+      "system": "reMem-obs",
+      "cases": 150,
+      "recallAtK": 0.8133333333333334,
+      "mrr": 0.25701587301587303,
+      "groundedAccuracy": 0.03333333333333333,
+      "abstentionPrecision": 1,
+      "abstentionRecall": 1,
+      "avgContextTokens": 231.90666666666667,
+      "avgLatencyMs": 0.0006794531891743342,
+      "byAbility": [
+        {
+          "ability": "preference",
+          "cases": 150,
+          "groundedAccuracy": 0.03333333333333333
+        }
+      ]
+    },
+    {
+      "system": "reMem-blend",
+      "cases": 150,
+      "recallAtK": 0.8266666666666667,
+      "mrr": 0.30995238095238103,
+      "groundedAccuracy": 0.05333333333333334,
+      "abstentionPrecision": 1,
+      "abstentionRecall": 1,
+      "avgContextTokens": 231.90666666666667,
+      "avgLatencyMs": 0.0003213869531949361,
+      "byAbility": [
+        {
+          "ability": "preference",
+          "cases": 150,
+          "groundedAccuracy": 0.05333333333333334
+        }
+      ]
+    }
+  ]
+}

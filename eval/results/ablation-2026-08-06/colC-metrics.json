@@ -1,0 +1,93 @@
+{
+ "metadata": {
+  "benchmark": "locomo",
+  "project_name": "colC",
+  "run_id": "8153bd4c",
+  "timestamp": "20260807_140519",
+  "answerer_model": "openai/gpt-5-mini",
+  "judge_model": "anthropic/claude-sonnet-5",
+  "provider": "openai",
+  "top_k": 50,
+  "top_k_cutoffs": [
+   "top_10",
+   "top_50"
+  ],
+  "total_questions": 385,
+  "categories": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ "metrics_by_cutoff": {
+  "top_10": {
+   "overall": {
+    "total": 385,
+    "correct": 258,
+    "accuracy": 67.01298701298701,
+    "avg_score": 67.01298701298701
+   },
+   "by_category": {
+    "multi-hop": {
+     "total": 74,
+     "correct": 53,
+     "accuracy": 71.62162162162163,
+     "avg_score": 71.62162162162163
+    },
+    "open-domain": {
+     "total": 21,
+     "correct": 18,
+     "accuracy": 85.71428571428571,
+     "avg_score": 85.71428571428571
+    },
+    "single-hop": {
+     "total": 200,
+     "correct": 165,
+     "accuracy": 82.5,
+     "avg_score": 82.5
+    },
+    "temporal": {
+     "total": 90,
+     "correct": 22,
+     "accuracy": 24.444444444444443,
+     "avg_score": 24.444444444444443
+    }
+   }
+  },
+  "top_50": {
+   "overall": {
+    "total": 385,
+    "correct": 296,
+    "accuracy": 76.88311688311688,
+    "avg_score": 76.88311688311688
+   },
+   "by_category": {
+    "multi-hop": {
+     "total": 74,
+     "correct": 65,
+     "accuracy": 87.83783783783784,
+     "avg_score": 87.83783783783784
+    },
+    "open-domain": {
+     "total": 21,
+     "correct": 20,
+     "accuracy": 95.23809523809523,
+     "avg_score": 95.23809523809523
+    },
+    "single-hop": {
+     "total": 200,
+     "correct": 183,
+     "accuracy": 91.5,
+     "avg_score": 91.5
+    },
+    "temporal": {
+     "total": 90,
+     "correct": 28,
+     "accuracy": 31.11111111111111,
+     "avg_score": 31.11111111111111
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,8 @@
+--- /dev/fd/12	2026-08-08 14:58:46
++++ memorybench/src/types/provider.ts	2026-08-08 14:55:11
+@@ -47,4 +47,4 @@
+   clear(containerTag: string): Promise<void>
+ }
+ 
+-export type ProviderName = "supermemory" | "mem0" | "zep" | "filesystem" | "rag"
++export type ProviderName = "supermemory" | "mem0" | "zep" | "filesystem" | "rag" | "remem"

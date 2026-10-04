@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root {
+    --ink:   #111114;
+    --paper: #FBFBF9;
+    --rule:  #E4E4E0;
+    --mute:  #8C8C86;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { background: var(--paper); }
+
+  .banner {
+    width: 1280px;
+    height: 640px;
+    background: var(--paper);
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 76px 88px;
+    font-family: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* A faint 12-unit grid, the same module the mark is drawn on. */
+  .banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(to right, var(--rule) 1px, transparent 1px),
+      linear-gradient(to bottom, var(--rule) 1px, transparent 1px);
+    background-size: 64px 64px;
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  .top, .bottom { position: relative; z-index: 1; }
+
+  .top { display: flex; align-items: flex-start; gap: 40px; }
+
+  .mark { width: 132px; height: 132px; flex: none; }
+
+  .titles { padding-top: 8px; }
+
+  .wordmark {
+    font-family: "Instrument Serif", Georgia, serif;
+    font-size: 104px;
+    line-height: 0.94;
+    letter-spacing: -0.022em;
+  }
+
+  .tagline {
+    margin-top: 22px;
+    font-size: 25px;
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 34ch;
+    letter-spacing: -0.005em;
+  }
+
+  .bottom {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 32px;
+    border-top: 1px solid var(--rule);
+    padding-top: 22px;
+  }
+
+  .specs { display: flex; gap: 40px; }
+
+  .spec { display: flex; flex-direction: column; gap: 5px; }
+  .spec b {
+    font-family: "Instrument Serif", Georgia, serif;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .spec span {
+    font-size: 10.5px;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--mute);
+  }
+
+  .pkg { font-size: 13px; color: var(--mute); text-align: right; }
+  .pkg em { font-style: normal; color: var(--ink); }
+</style>
+</head>
+<body>
+  <div class="banner">
+    <div class="top">
+      <svg class="mark" viewBox="0 0 96 96" aria-label="reMem">
+        <path fill="currentColor" fill-rule="evenodd"
+              d="M12 12H60V60H12Z M36 36H84V84H36Z"/>
+      </svg>
+      <div class="titles">
+        <div class="wordmark">reMem</div>
+        <p class="tagline">
+          The memory kernel that knows when to correct itself.
+        </p>
+      </div>
+    </div>
+
+    <div class="bottom">
+      <div class="specs">
+        <div class="spec"><b>3&times; better</b><span>than existing systems on facts that change</span></div>
+        <div class="spec"><b>derived beliefs</b><span>from an immutable ledger</span></div>
+      </div>
+      <div class="pkg"><em>npm i remem-kernel</em><br>AGPL&#8209;3.0</div>
+    </div>
+  </div>
+</body>
+</html>

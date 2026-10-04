@@ -1,0 +1,22 @@
+--- /dev/fd/11	2026-08-09 12:22:43
++++ memorybench/src/benchmarks/index.ts	2026-08-09 12:20:26
+@@ -2,11 +2,13 @@
+ import { LoCoMoBenchmark } from "./locomo"
+ import { LongMemEvalBenchmark } from "./longmemeval"
+ import { ConvoMemBenchmark } from "./convomem"
++import { PrefEvalBenchmark } from "./prefeval"
+ 
+ const benchmarks: Record<BenchmarkName, new () => Benchmark> = {
+   locomo: LoCoMoBenchmark,
+   longmemeval: LongMemEvalBenchmark,
+   convomem: ConvoMemBenchmark,
++  prefeval: PrefEvalBenchmark,
+ }
+ 
+ export function createBenchmark(name: BenchmarkName): Benchmark {
+@@ -21,4 +23,4 @@
+   return Object.keys(benchmarks) as BenchmarkName[]
+ }
+ 
+-export { LoCoMoBenchmark, LongMemEvalBenchmark, ConvoMemBenchmark }
++export { LoCoMoBenchmark, LongMemEvalBenchmark, ConvoMemBenchmark, PrefEvalBenchmark }

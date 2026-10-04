@@ -1,0 +1,1 @@
+{"status":"ok","config":{"port":8899,"embedder":"transformers","consolidator":"null","rankMode":"observations-first","minScore":0,"beliefQuota":10,"alpha":0.3,"window":0,"demoteSuperseded":false,"slotCharBudget":400},"users":0}

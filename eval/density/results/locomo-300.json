@@ -1,0 +1,1830 @@
+{
+  "report": {
+    "benchmark": "locomo",
+    "n": 300,
+    "contradictions": 5,
+    "density": 0.016666666666666666,
+    "ci95": [
+      0.007139372042772196,
+      0.038415943621705605
+    ],
+    "failures": 0
+  },
+  "verdicts": [
+    {
+      "id": "conv-26-q0-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q5-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q10-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q15-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q20-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q25-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q30-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q35-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q40-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q45-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q51-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q56-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q61-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q66-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q71-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q76-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q81-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q86-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q91-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q96-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q102-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q107-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q112-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q117-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q122-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q127-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q132-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q137-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q142-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-26-q147-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q4-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q9-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q14-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q19-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q24-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q29-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q34-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q39-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q44-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q50-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q55-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q60-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q65-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q70-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q75-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-30-q81-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q4-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q9-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q14-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q20-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q25-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q30-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q35-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q40-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q45-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q50-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q55-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q60-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q65-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q71-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q76-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q81-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q86-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q91-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q96-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q101-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q106-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q111-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q117-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q122-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q127-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q132-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q137-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q142-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-41-q147-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q0-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q5-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q10-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q16-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q21-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q26-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q31-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q36-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q41-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q46-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q51-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q56-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q61-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q67-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q72-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q77-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q82-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q87-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q92-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q97-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q102-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q107-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q113-c4",
+      "label": "contradiction",
+      "evidence": [
+        "I love action and sci-fi movies, the effects are so cool! What about you, what's your favorite genre?",
+        "I love fantasy and sci-fi movies, they're a great escape and get my imagination going. Playing video games is a great way to express my creativity and passion."
+      ],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q118-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q123-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q128-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q133-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q138-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q143-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q148-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q153-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q158-c4",
+      "label": "contradiction",
+      "evidence": [
+        "It's dairy-free vanilla with strawberry filling and coconut cream frosting. I gotta say, I really like your coconut reccomendation you gave a while back!",
+        "Hey Nate, I love making this dairy-free chocolate cake with raspberries. It's so moist and delicious - perfect sweetness level."
+      ],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q164-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q169-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q174-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q179-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q184-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q189-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-42-q194-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q0-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q5-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q10-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q16-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q21-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q26-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q31-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q36-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q41-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q46-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q51-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q56-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q62-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q67-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q72-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q77-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q82-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q87-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q92-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q97-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q102-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q107-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q113-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q118-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q123-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q128-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q133-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q138-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q143-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q148-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q153-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q158-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q164-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q169-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-43-q174-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q1-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q6-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q11-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q16-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q21-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q26-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q32-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q37-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q42-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q47-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q52-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q57-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q62-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q67-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q72-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q77-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q83-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q88-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q93-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q98-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q103-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q108-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q113-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-44-q118-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q0-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q5-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q11-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q16-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q21-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q26-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q31-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q36-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q41-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q46-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q51-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q57-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q62-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q67-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q72-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q77-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q82-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q87-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q92-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q97-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q102-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q108-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q113-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q118-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q123-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q128-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q133-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q138-c4",
+      "label": "contradiction",
+      "evidence": [
+        "I've always loved playing strategy games like Civilization and Total War, so I decided to challenge myself and create one of my own.",
+        "Playing video games was always great, but creating my own game was really special. Witcher 3 gave me a ton of inspiration, with its amazing world and story. Plus, it pushed me to create something cool."
+      ],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q143-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-47-q148-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q3-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q9-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q14-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q19-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q24-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q29-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q34-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q39-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q44-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q49-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q55-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q60-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q65-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q70-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q75-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q80-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q85-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q90-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q95-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q100-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q106-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q111-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q116-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q121-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q126-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q131-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q136-c4",
+      "label": "contradiction",
+      "evidence": [
+        "By the way, I tried a new pose - Dancer Pose (Natarajasana). Rate, did I succeed?",
+        "I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose."
+      ],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q141-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q146-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q151-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q157-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q162-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q167-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q172-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q177-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q182-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-48-q187-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q1-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q6-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q12-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q17-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q22-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q27-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q32-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q37-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q42-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q47-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q52-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q57-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q63-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q68-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q73-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q78-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q83-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q88-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q93-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q98-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q103-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q108-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q114-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q119-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q124-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q129-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q134-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q139-c4",
+      "label": "contradiction",
+      "evidence": [
+        "The painting is mine, I made it when I was a mix of emotions - sad, mad, and hopeful. Art is amazing how it can portray feelings without words.",
+        "I painted this with a sense of joy and freedom. The spontaneous strokes and bold colors reflect a playful and liberated mood, embracing the creative process without restraint."
+      ],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q144-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-49-q149-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q1-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q7-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q12-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q17-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q22-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q27-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q32-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q37-c3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q42-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q47-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q52-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q58-c1",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q63-c2",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q68-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q73-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q78-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q83-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q88-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q93-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q98-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q103-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q109-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q114-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q119-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q124-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q129-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q134-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q139-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q144-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "conv-50-q149-c4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    }
+  ]
+}

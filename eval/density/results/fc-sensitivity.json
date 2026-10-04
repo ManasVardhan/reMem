@@ -1,0 +1,837 @@
+{
+  "report": {
+    "benchmark": "factconsolidation",
+    "n": 100,
+    "contradictions": 74,
+    "density": 0.74,
+    "ci95": [
+      0.6462882736813836,
+      0.8159542187301354
+    ],
+    "failures": 0
+  },
+  "verdicts": [
+    {
+      "id": "factconsolidation_sh_6k_no0",
+      "label": "contradiction",
+      "evidence": [
+        "223. goaltender is associated with the sport of ice hockey.",
+        "310. goaltender is associated with the sport of pesäpallo."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no1",
+      "label": "contradiction",
+      "evidence": [
+        "91. Nobuhiro Watsuki is famous for Rurouni Kenshin.",
+        "259. Nobuhiro Watsuki is famous for The Fairly OddParents."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no2",
+      "label": "contradiction",
+      "evidence": [
+        "100. rugby union was created in the country of England.",
+        "186. rugby union was created in the country of India."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no3",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no4",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no5",
+      "label": "contradiction",
+      "evidence": [
+        "271. The author of The Marriage of Figaro is Pierre Beaumarchais.",
+        "398. The author of The Marriage of Figaro is Thomas Kyd."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no6",
+      "label": "contradiction",
+      "evidence": [
+        "235. Tunisia national football team is associated with the sport of association football.",
+        "418. Tunisia national football team is associated with the sport of basketball."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no7",
+      "label": "contradiction",
+      "evidence": [
+        "31. quarterback is associated with the sport of American football.",
+        "50. quarterback is associated with the sport of Muay Thai."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no8",
+      "label": "contradiction",
+      "evidence": [
+        "240. The official language of Japan is Japanese.",
+        "441. The official language of Japan is Swedish."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no9",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no10",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no11",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no12",
+      "label": "contradiction",
+      "evidence": [
+        "330. Robert Parish plays the position of center.",
+        "334. Robert Parish plays the position of quarterback."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no13",
+      "label": "contradiction",
+      "evidence": [
+        "210. Cédric Klapisch is a citizen of France.",
+        "239. Cédric Klapisch is a citizen of Malaysia."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no14",
+      "label": "contradiction",
+      "evidence": [
+        "124. The author of Sidereus Nuncius is Galileo Galilei.",
+        "401. The author of Sidereus Nuncius is Samuel Beckett."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no15",
+      "label": "contradiction",
+      "evidence": [
+        "[43] 41. Germany is located in the continent of Europe.",
+        "[437] 435. Germany is located in the continent of Africa."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no16",
+      "label": "contradiction",
+      "evidence": [
+        "70. Kingdom of Ireland is affiliated with the religion of Catholic Church.",
+        "260. Kingdom of Ireland is affiliated with the religion of Zoroastrianism."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no17",
+      "label": "contradiction",
+      "evidence": [
+        "272. association football was created in the country of England.",
+        "389. association football was created in the country of Italy."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no18",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no19",
+      "label": "contradiction",
+      "evidence": [
+        "85. The chief executive officer of Microsoft is Satya Nadella.",
+        "188. The chief executive officer of Microsoft is Steve Jobs."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no20",
+      "label": "contradiction",
+      "evidence": [
+        "80. The chairperson of Harvard University is Lawrence S. Bacow.",
+        "222. The chairperson of Harvard University is Peter Diamandis."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no21",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no22",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no23",
+      "label": "contradiction",
+      "evidence": [
+        "64. The director of American Broadcasting Company is Bob Iger.",
+        "392. The director of American Broadcasting Company is Ernst Heinkel."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no24",
+      "label": "contradiction",
+      "evidence": [
+        "292. Gennady Rozhdestvensky died in the city of Moscow.",
+        "451. Gennady Rozhdestvensky died in the city of United States of America."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no25",
+      "label": "contradiction",
+      "evidence": [
+        "21. The capital of Tang Empire is Chang'an.",
+        "177. The capital of Tang Empire is Beaumont."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no26",
+      "label": "contradiction",
+      "evidence": [
+        "7. The director of British Broadcasting Corporation is Tony Hall, Baron Hall of Birkenhead.",
+        "428. The director of British Broadcasting Corporation is Narendra Modi."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no27",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no28",
+      "label": "contradiction",
+      "evidence": [
+        "289. The type of music that Michael Mantler plays is jazz.",
+        "298. The type of music that Michael Mantler plays is post-punk."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no29",
+      "label": "contradiction",
+      "evidence": [
+        "128. Oscar Wilde died in the city of Paris.",
+        "270. Oscar Wilde died in the city of Guangzhou."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no30",
+      "label": "contradiction",
+      "evidence": [
+        "160. baseball was created in the country of United States of America.",
+        "382. baseball was created in the country of Japan."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no31",
+      "label": "contradiction",
+      "evidence": [
+        "192. Ernst Heinkel is a citizen of Germany.",
+        "203. Ernst Heinkel is a citizen of Tang Empire."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no32",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no33",
+      "label": "contradiction",
+      "evidence": [
+        "359. rap rock was created in the country of United States of America.",
+        "403. rap rock was created in the country of Russian Empire."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no34",
+      "label": "contradiction",
+      "evidence": [
+        "40. Christianity was founded in the city of Jerusalem.",
+        "43. Christianity was founded in the city of Taipei."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no35",
+      "label": "contradiction",
+      "evidence": [
+        "[242] 242. The official language of United States of America is American English.",
+        "[297] 295. The official language of United States of America is German."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no36",
+      "label": "contradiction",
+      "evidence": [
+        "251. Past Masters was performed by The Beatles.",
+        "364. Past Masters was performed by Madonna."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no37",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no38",
+      "label": "contradiction",
+      "evidence": [
+        "163. The capital of France is Paris.",
+        "171. The capital of France is Harare."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no39",
+      "label": "contradiction",
+      "evidence": [
+        "238. SteamOS was developed by Valve Corporation.",
+        "277. SteamOS was developed by ABB Group."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no40",
+      "label": "contradiction",
+      "evidence": [
+        "173. The headquarters of University of Bucharest is located in the city of Bucharest.",
+        "409. The headquarters of University of Bucharest is located in the city of Ankara."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no41",
+      "label": "contradiction",
+      "evidence": [
+        "46. wide receiver is associated with the sport of American football.",
+        "252. wide receiver is associated with the sport of rugby."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no42",
+      "label": "contradiction",
+      "evidence": [
+        "3. Hines Ward plays the position of wide receiver.",
+        "36. Hines Ward plays the position of cornerback."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no43",
+      "label": "contradiction",
+      "evidence": [
+        "[286] 284. The capital of Australia is Canberra.",
+        "[390] 388. The capital of Australia is Oderzo."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no44",
+      "label": "contradiction",
+      "evidence": [
+        "[373] Malaysia is located in the continent of Asia.",
+        "[442] Malaysia is located in the continent of Antarctica."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no45",
+      "label": "contradiction",
+      "evidence": [
+        "10. The author of A Wizard of Earthsea is Ursula K. Le Guin.",
+        "301. The author of A Wizard of Earthsea is Pius XII."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no46",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no47",
+      "label": "contradiction",
+      "evidence": [
+        "[109] 107. The author of Our Mutual Friend is Charles Dickens.",
+        "[148] 146. The author of Our Mutual Friend is Charles Darwin."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no48",
+      "label": "contradiction",
+      "evidence": [
+        "216. basketball was created in the country of United States of America.",
+        "348. basketball was created in the country of Soviet Union."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no49",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no50",
+      "label": "contradiction",
+      "evidence": [
+        "4. Bengaluru is located in the continent of Asia.",
+        "234. Bengaluru is located in the continent of Oceania."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no51",
+      "label": "contradiction",
+      "evidence": [
+        "18. Slovakia national football team is associated with the sport of association football.",
+        "279. Slovakia national football team is associated with the sport of cricket."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no52",
+      "label": "contradiction",
+      "evidence": [
+        "115. The name of the current head of state in United States of America is Donald Trump.",
+        "126. The name of the current head of state in United States of America is Connachta."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no53",
+      "label": "contradiction",
+      "evidence": [
+        "248. Imelda Marcos is affiliated with the religion of Catholicism.",
+        "374. Imelda Marcos is affiliated with the religion of atheism."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no54",
+      "label": "contradiction",
+      "evidence": [
+        "243. The type of music that Dana International plays is pop music.",
+        "281. The type of music that Dana International plays is Australian hip hop."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no55",
+      "label": "contradiction",
+      "evidence": [
+        "244. Sable is a citizen of United States of America.",
+        "299. Sable is a citizen of Czech Republic."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no56",
+      "label": "contradiction",
+      "evidence": [
+        "155. Charlie Hebdo was created in the country of France.",
+        "358. Charlie Hebdo was created in the country of Italy."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no57",
+      "label": "contradiction",
+      "evidence": [
+        "120. Elvis Presley is married to Priscilla Presley.",
+        "139. Elvis Presley is married to Charles the Bold."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no58",
+      "label": "contradiction",
+      "evidence": [
+        "413. Hermione Granger was performed by Emma Watson.",
+        "425. Hermione Granger was performed by Kylie Minogue."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no59",
+      "label": "contradiction",
+      "evidence": [
+        "194. Bo Ryan is associated with the sport of basketball.",
+        "346. Bo Ryan is associated with the sport of association football."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no60",
+      "label": "contradiction",
+      "evidence": [
+        "[92] 90. The type of music that John McVie plays is rock music.",
+        "[417] 415. The type of music that John McVie plays is rap rock."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no61",
+      "label": "contradiction",
+      "evidence": [
+        "[8] 6. Rogério Ceni plays the position of goalkeeper.",
+        "[436] 434. Rogério Ceni plays the position of flanker."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no62",
+      "label": "contradiction",
+      "evidence": [
+        "109. The chief executive officer of Twitter is Jack Dorsey.",
+        "275. The chief executive officer of Twitter is Bernard Arnault."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no63",
+      "label": "contradiction",
+      "evidence": [
+        "122. Kylie Minogue speaks the language of English.",
+        "157. Kylie Minogue speaks the language of German."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no64",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no65",
+      "label": "contradiction",
+      "evidence": [
+        "78. placekicker is associated with the sport of American football.",
+        "321. placekicker is associated with the sport of rugby."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no66",
+      "label": "contradiction",
+      "evidence": [
+        "152. Stephen McNeil works in the field of politician.",
+        "320. Stephen McNeil works in the field of journalist."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no67",
+      "label": "contradiction",
+      "evidence": [
+        "38. Dave Filoni is employed by Lucasfilm.",
+        "226. Dave Filoni is employed by British Broadcasting Corporation."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no68",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no69",
+      "label": "contradiction",
+      "evidence": [
+        "Canadair was founded in the city of Montreal.",
+        "Canadair was founded in the city of Tucson."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no70",
+      "label": "contradiction",
+      "evidence": [
+        "196. The company that produced AP1000 is Westinghouse Electric.",
+        "356. The company that produced AP1000 is Canadair."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no71",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no72",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no73",
+      "label": "contradiction",
+      "evidence": [
+        "141. Tony Blair is married to Cherie Blair.",
+        "424. Tony Blair is married to Alan Jay Lerner."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no74",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no75",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no76",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no77",
+      "label": "contradiction",
+      "evidence": [
+        "[56] 54. The chairperson of Congolese Party of Labour is Denis Sassou-Nguesso.",
+        "[447] 445. The chairperson of Congolese Party of Labour is Stephen McNeil."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no78",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no79",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no80",
+      "label": "contradiction",
+      "evidence": [
+        "14. Lisa Leslie plays the position of center.",
+        "169. Lisa Leslie plays the position of goaltender."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no81",
+      "label": "contradiction",
+      "evidence": [
+        "161. The name of the current head of state in Soviet Union is Mikhail Gorbachev.",
+        "365. The name of the current head of state in Soviet Union is Elizabeth II."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no82",
+      "label": "contradiction",
+      "evidence": [
+        "24. Ferdinand von Richthofen is a citizen of Germany.",
+        "386. Ferdinand von Richthofen is a citizen of Canada."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no83",
+      "label": "contradiction",
+      "evidence": [
+        "266. Karen Armstrong is affiliated with the religion of Catholic Church.",
+        "412. Karen Armstrong is affiliated with the religion of Church of Scotland."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no84",
+      "label": "contradiction",
+      "evidence": [
+        "Vito Corleone was created by Mario Puzo.",
+        "Vito Corleone was created by Nobuhiro Watsuki."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no85",
+      "label": "contradiction",
+      "evidence": [
+        "185. The capital of Romania is Bucharest.",
+        "449. The capital of Romania is Rajanpur."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no86",
+      "label": "contradiction",
+      "evidence": [
+        "228. India is located in the continent of Asia.",
+        "280. India is located in the continent of Africa."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no87",
+      "label": "contradiction",
+      "evidence": [
+        "125. Olga of Kiev died in the city of Kyiv.",
+        "450. Olga of Kiev died in the city of Rodez."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no88",
+      "label": "contradiction",
+      "evidence": [
+        "224. Sasanian Empire was founded by Ardashir I.",
+        "264. Sasanian Empire was founded by Walter Chrysler."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no89",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no90",
+      "label": "contradiction",
+      "evidence": [
+        "291. Surrey Senior Cup is associated with the sport of association football.",
+        "315. Surrey Senior Cup is associated with the sport of basketball."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no91",
+      "label": "contradiction",
+      "evidence": [
+        "[176] Narendra Modi is a citizen of India.",
+        "[219] Narendra Modi is a citizen of Australia."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no92",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no93",
+      "label": "contradiction",
+      "evidence": [
+        "204. Charles Messier is a citizen of France.",
+        "343. Charles Messier is a citizen of Iran."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no94",
+      "label": "contradiction",
+      "evidence": [
+        "66. Rand al'Thor was created by Robert Jordan.",
+        "326. Rand al'Thor was created by Ferdowsi."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no95",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no96",
+      "label": "contradiction",
+      "evidence": [
+        "55. Colin Irwin is a citizen of United Kingdom.",
+        "441. Colin Irwin is a citizen of Israel."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no97",
+      "label": "contradiction",
+      "evidence": [
+        "61. Walter Chrysler's child is Walter Percy Chrysler Jr..",
+        "231. Walter Chrysler's child is Charles Frederick, Duke of Holstein-Gottorp."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no98",
+      "label": "contradiction",
+      "evidence": [
+        "164. Charles Darwin is married to Emma Darwin.",
+        "335. Charles Darwin is married to Amala Paul."
+      ],
+      "failed": false
+    },
+    {
+      "id": "factconsolidation_sh_6k_no99",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    }
+  ]
+}

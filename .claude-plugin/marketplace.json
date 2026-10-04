@@ -1,0 +1,13 @@
+{
+  "name": "remem",
+  "owner": {
+    "name": "reMem"
+  },
+  "plugins": [
+    {
+      "name": "remem",
+      "source": "./plugin",
+      "description": "Persistent, belief-forming memory: records what you say, derives beliefs, and supersedes them when you change your mind."
+    }
+  ]
+}

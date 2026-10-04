@@ -1,0 +1,22 @@
+dist/
+node_modules/
+coverage/
+pnpm-lock.yaml
+data/
+
+# Benchmark inputs and results. These are data: reformatting them would rewrite
+# recorded numbers into a different shape for no reason and make diffs on a
+# rerun unreadable.
+eval/
+
+# Local artefacts, not source.
+scratch/
+
+# Generated. Edit src/viewer/page.html instead.
+src/viewer/page.ts
+
+# Hand-authored pages. Prettier's HTML formatter rewrites the whole document to
+# its own indentation and can alter whitespace inside <pre>, where the install
+# commands live. These are designed artefacts, not code to be normalised.
+brand/*.html
+src/viewer/page.html

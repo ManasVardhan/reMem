@@ -1,0 +1,1815 @@
+{
+  "report": {
+    "benchmark": "prefeval",
+    "n": 300,
+    "contradictions": 0,
+    "density": 0,
+    "ci95": [
+      0,
+      0.012643429997735661
+    ],
+    "failures": 0
+  },
+  "verdicts": [
+    {
+      "id": "explicit-education_learning_styles-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_learning_styles-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_learning_styles-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_learning_styles-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_resources-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_resources-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_resources-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_resources-i39-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-education_resources-i49-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_games-i5-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_games-i15-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_games-i25-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_games-i35-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_games-i45-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_music_book-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i8-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i18-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i28-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i38-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i48-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_shows-i58-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_sports-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_sports-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_sports-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_sports-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-entertain_sports-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_beauty-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_beauty-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_beauty-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_beauty-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_beauty-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i1-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i11-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i21-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i31-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i41-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_dietary-i51-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_fit-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_fit-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_fit-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_fit-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_fit-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_health-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_health-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_health-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_health-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-lifestyle_health-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-pet_ownership-i3-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-pet_ownership-i13-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-pet_ownership-i23-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-pet_ownership-i33-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-professional_work_location_style-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-professional_work_location_style-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-professional_work_location_style-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-professional_work_location_style-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_fashion-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_fashion-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_fashion-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_fashion-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_fashion-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i40-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_home-i50-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_motors-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_motors-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_motors-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_motors-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_motors-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_technology-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_technology-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-shop_technology-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_activities-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_hotel-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_hotel-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_hotel-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_hotel-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_hotel-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_restaurant-i52-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_transportation-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_transportation-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_transportation-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "explicit-travel_transportation-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_learning_styles-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_learning_styles-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_learning_styles-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_learning_styles-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_resources-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_resources-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_resources-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_resources-i39-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-education_resources-i49-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_games-i5-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_games-i15-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_games-i25-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_games-i35-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_games-i45-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_music_book-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i8-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i18-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i28-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i38-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i48-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_shows-i58-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_sports-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_sports-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_sports-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_sports-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-entertain_sports-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_beauty-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_beauty-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_beauty-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_beauty-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_beauty-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i1-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i11-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i21-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i31-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i41-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_dietary-i51-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_fit-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_fit-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_fit-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_fit-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_fit-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_health-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_health-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_health-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_health-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-lifestyle_health-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-pet_ownership-i3-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-pet_ownership-i13-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-pet_ownership-i23-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-pet_ownership-i33-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-professional_work_location_style-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-professional_work_location_style-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-professional_work_location_style-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-professional_work_location_style-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_fashion-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_fashion-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_fashion-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_fashion-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_fashion-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i40-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_home-i50-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_motors-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_motors-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_motors-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_motors-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_motors-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_technology-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_technology-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-shop_technology-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_activities-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_hotel-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_hotel-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_hotel-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_hotel-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_hotel-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_restaurant-i52-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_transportation-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_transportation-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_transportation-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "choice-based-travel_transportation-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_learning_styles-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_learning_styles-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_learning_styles-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_learning_styles-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_resources-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_resources-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_resources-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_resources-i39-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-education_resources-i49-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_games-i5-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_games-i15-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_games-i25-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_games-i35-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_games-i45-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_music_book-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i8-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i18-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i28-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i38-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i48-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_shows-i58-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_sports-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_sports-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_sports-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_sports-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-entertain_sports-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_beauty-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_beauty-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_beauty-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_beauty-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_beauty-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i1-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i11-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i21-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i31-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i41-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_dietary-i51-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_fit-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_fit-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_fit-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_fit-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_fit-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_health-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_health-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_health-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_health-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-lifestyle_health-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-pet_ownership-i3-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-pet_ownership-i13-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-pet_ownership-i23-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-pet_ownership-i33-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-professional_work_location_style-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-professional_work_location_style-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-professional_work_location_style-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-professional_work_location_style-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_fashion-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_fashion-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_fashion-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_fashion-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_fashion-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i0-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i10-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i20-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i30-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i40-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_home-i50-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_motors-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_motors-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_motors-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_motors-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_motors-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_technology-i9-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_technology-i19-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-shop_technology-i29-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i4-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i14-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i24-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i34-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i44-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_activities-i54-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_hotel-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_hotel-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_hotel-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_hotel-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_hotel-i46-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i2-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i12-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i22-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i32-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i42-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_restaurant-i52-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_transportation-i6-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_transportation-i16-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_transportation-i26-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    },
+    {
+      "id": "persona-driven-travel_transportation-i36-q",
+      "label": "no-contradiction",
+      "evidence": [],
+      "failed": false
+    }
+  ]
+}

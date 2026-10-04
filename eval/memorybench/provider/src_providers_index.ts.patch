@@ -1,0 +1,31 @@
+--- /dev/fd/12	2026-08-08 14:58:46
++++ memorybench/src/providers/index.ts	2026-08-08 14:56:13
+@@ -5,6 +5,7 @@
+ import { ZepProvider } from "./zep"
+ import { FilesystemProvider } from "./filesystem"
+ import { RAGProvider } from "./rag"
++import { ReMemProvider } from "./remem"
+ 
+ const providers: Record<ProviderName, new () => Provider> = {
+   supermemory: SupermemoryProvider,
+@@ -12,6 +13,7 @@
+   zep: ZepProvider,
+   filesystem: FilesystemProvider,
+   rag: RAGProvider,
++  remem: ReMemProvider,
+ }
+ 
+ export function createProvider(name: ProviderName): Provider {
+@@ -39,4 +41,11 @@
+   }
+ }
+ 
+-export { SupermemoryProvider, Mem0Provider, ZepProvider, FilesystemProvider, RAGProvider }
++export {
++  SupermemoryProvider,
++  Mem0Provider,
++  ZepProvider,
++  FilesystemProvider,
++  RAGProvider,
++  ReMemProvider,
++}

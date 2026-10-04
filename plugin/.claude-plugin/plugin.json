@@ -1,0 +1,6 @@
+{
+  "name": "remem",
+  "version": "0.3.0",
+  "description": "Persistent, belief-forming memory for Claude Code. Records what you say, derives beliefs, and supersedes them when you change your mind.",
+  "keywords": ["memory", "beliefs", "supersession", "mcp", "hooks"]
+}
